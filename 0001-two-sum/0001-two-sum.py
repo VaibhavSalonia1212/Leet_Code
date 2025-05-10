@@ -5,6 +5,6 @@ class Solution:
                 if nums[i] + nums [j] == target:
                     print(i,j)
                     return(i,j)
-
+        return()
 
     
