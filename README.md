@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VaibhavSalonia1212/Leet_Code/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/VaibhavSalonia1212/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/VaibhavSalonia1212/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/VaibhavSalonia1212/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
